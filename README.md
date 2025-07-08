@@ -1,7 +1,3 @@
-Voici un **cours de langage C** pour débutants, structuré par chapitres avec une progression pédagogique simple :
-
----
-
 # 📘 **Cours C – Débutant à Intermédiaire**
 
 ## 🧭 Table des matières
